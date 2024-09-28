@@ -13,3 +13,7 @@ mul=$((a*b))
 echo "$result" "$sub" "$mul"
 
 docker swarm join --token SWMTKN-1-45v0o9c2czbx9wumhpt33vep6u7ppg4rex7n2l036m7xgt4g7n-8fmhubxskgfufuujlblfwh3fa 192.168.211.48:2377
+
+docker swarm join --token SWMTKN-1-5gsbol49eww70zr1pxdji1csdn36o8uaoud77zqey7ntzw47kj-9g0iilphymyu44738vyf2cc23 192.168.211.48:2377
+
+
