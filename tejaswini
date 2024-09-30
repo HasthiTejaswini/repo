@@ -15,3 +15,7 @@ mnjkhujnk
 
 
 https://github.com/Cohesity2022/certified-kubernetes-administrator/blob/main/Cluster%20Setup
+
+kubeadm join 192.168.211.214:6443 --token mqjzzg.oibpsgwv0b2h8zxb \
+	--discovery-token-ca-cert-hash sha256:7b9b99d5f8c0fd0fa15d57a9934047462df3f0d89193485bed5a3a0e5901d1d8 
+
